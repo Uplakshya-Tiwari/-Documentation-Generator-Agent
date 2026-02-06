@@ -38,22 +38,12 @@ Documentation-Generator-Agent/
 │   └── text_tools.py
 ├── docs/
 │   └── DOCUMENTATION.md
-├── screenshots/
 ├── README.md
 ├── requirements.txt
 └── .gitignore
 ```
 
 ---
-
-## 📸 Screenshots
-
-### Running the Documentation Generator
-![Run Output](screenshots/run_output.png)
-
-### Generated Documentation Output
-![Generated Documentation](screenshots/generated_documentation.png)
-
 ---
 
 ## 🧠 Agent Behavior
